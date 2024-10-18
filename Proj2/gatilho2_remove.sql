@@ -1,0 +1,1 @@
+DROP TRIGGER IF EXISTS update_playoffs_desqualificadas;

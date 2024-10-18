@@ -1,0 +1,1 @@
+Drop Trigger IF EXISTS R3;
